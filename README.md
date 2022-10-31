@@ -57,5 +57,5 @@ For the first time, I saw the power of creation😍, through building websites, 
 I found myself fascinated by the world of Software Development that I decided to Develop myself and register for a B.Sc. degree in 
 Software Engineering at the open university💪. These days I’m working on a Java project to learn new technologies.
 I participated in hackathons, meetups and online courses.
-I passionate about complex problem solving, highly motivated for learning new technologies and handle technological challenges.
+I passionate about complex problem solving, highly motivated to learn new technologies and handle technological challenges.
   
