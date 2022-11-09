@@ -6,7 +6,7 @@
 
 - 🤔 I’m looking for a Job as a Backend Developer 
 
-- 💬 Ask me about **Spring , SQL and Hibernate**
+- 💬 Ask me about **Spring, SQL and Hibernate**
 
 - 📫 Reach me at [email](mailto:sapirlavie9@gmail.com) 😊
 
